@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Mobile_Automation"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="15.421">
+  <properties />
+  
+  
+            <testcase name="Task1_GoogleTask_addTasks" time="15.421" classname="com.ibm.googleapps.GoogleTaskAPP" />
+      
+</testsuite>

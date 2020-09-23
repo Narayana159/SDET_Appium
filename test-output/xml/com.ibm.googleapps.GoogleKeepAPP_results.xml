@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Mobile_Automation"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="33.330">
+  <properties />
+  
+  
+            <testcase name="Task2_GoogleKeep_addNote" time="10.456" classname="com.ibm.googleapps.GoogleKeepAPP" />
+                <testcase name="Task3_GoogleKeep_addReminder" time="22.874" classname="com.ibm.googleapps.GoogleKeepAPP" />
+      
+</testsuite>

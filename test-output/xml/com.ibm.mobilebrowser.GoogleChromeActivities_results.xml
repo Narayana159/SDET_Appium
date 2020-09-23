@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Mobile_Automation"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="94.920">
+  <properties />
+  
+  
+            <testcase name="Task5_GoogleChrome_ValidLogin" time="26.117" classname="com.ibm.mobilebrowser.GoogleChromeActivities" />
+                <testcase name="Task4_GoogleChrome_toDoList" time="34.174" classname="com.ibm.mobilebrowser.GoogleChromeActivities" />
+                <testcase name="Task6_GoogleChrome_LoginSimpleForm" time="34.629" classname="com.ibm.mobilebrowser.GoogleChromeActivities" />
+      
+</testsuite>
